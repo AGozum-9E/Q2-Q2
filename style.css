@@ -1,0 +1,29 @@
+body {
+	background-color: #FFD8BE;
+	color: #18020C;
+	background-image:url(https://wallpaperaccess.com/full/519216.jpg); 
+	background-position: bottom center;
+		background-size: cover;
+		
+	}
+
+.container {
+	background-color: #9381FF;
+	padding: 20px;
+	box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+	font-family: Times New Roman;
+	opacity: 0.8;
+}
+
+.container h2 {
+	text-align: center;
+}
+
+
+.btn {
+	background-color: #634B66;
+	font-family:times new roman;
+}
+a {
+	font-family:times new roman;
+}
